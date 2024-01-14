@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/messias-project/static/css/main.bf2c5835.css",
+    "main.js": "/messias-project/static/js/main.7b971342.js",
+    "static/media/OurBlos.jpg": "/messias-project/static/media/OurBlos.4e41d329f42c938da9ad.jpg",
+    "static/media/backgroundBlog.jpg": "/messias-project/static/media/backgroundBlog.d7ff9b88381555869cfd.jpg",
+    "static/media/Mission.jpg": "/messias-project/static/media/Mission.d61d1c3a9b8bdf6838dc.jpg",
+    "static/media/objective.jpg": "/messias-project/static/media/objective.44b8ff87d1d2101f5240.jpg",
+    "static/media/Donateeee.jpg": "/messias-project/static/media/Donateeee.d04c567160f19fb6e757.jpg",
+    "static/media/background.jpg": "/messias-project/static/media/background.b6ed7b56575b449ea548.jpg",
+    "static/media/slick.svg": "/messias-project/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/messias-project/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/messias-project/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/messias-project/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/messias-project/index.html",
+    "main.bf2c5835.css.map": "/messias-project/static/css/main.bf2c5835.css.map",
+    "main.7b971342.js.map": "/messias-project/static/js/main.7b971342.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf2c5835.css",
+    "static/js/main.7b971342.js"
+  ]
+}
