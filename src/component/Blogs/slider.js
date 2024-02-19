@@ -28,7 +28,7 @@ export default function SimpleSlider() {
 
   const handleSlideClick = (blogId) => {
     // Navigate to the blogdetails page with the corresponding blogId
-    navigate(`/blogdetails/${blogId}`);
+    navigate(`/blog/`);
   };
 
    
@@ -52,11 +52,10 @@ export default function SimpleSlider() {
 
   return (
     <Slider {...settings}>
-      {blogs.blogList.map(blog => (
-        <div key={blog.id} className="card" onClick={() => handleSlideClick(blog.id)}>
-          <h5>{blog.title}</h5>
-        </div>
-      ))}
+      <div className="card" onClick={handleSlideClick}><h5 className="header">Visit Our Blogs</h5></div>
+      <div className="card" onClick={handleSlideClick}><h5 className="header">Visit Our Blogs</h5></div>
+      <div className="card" onClick={handleSlideClick}><h5 className="header">Visit Our Blogs</h5></div>
+      <div className="card" onClick={handleSlideClick}><h5 className="header">Visit Our Blogs</h5></div>
     </Slider>
   );
 }
